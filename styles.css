@@ -56,11 +56,17 @@ span{
     position:fixed;
 }
 
+
+.ul-bar{
+    /* padding-top: 10%; */
+    max-width: 53%;
+    margin: 28px auto;
+    padding:0;
+}
 li{
     list-style-type: none;    
     
 }
-
 
 div a{
     text-decoration: none;
